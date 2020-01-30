@@ -20,4 +20,4 @@ DFS (depth-first search) and BFS (breadth-first search) algorithms were used and
 Other tasks in this assignment included:
 
 * Finding the probability of fire spread given x density and calculing the optimal maximum density for fullest fire spread.
-* 
+* Comparing the running time of the two different algorithms and explain why is one faster than another
